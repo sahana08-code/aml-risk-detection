@@ -59,5 +59,4 @@ This project uses a random sample of 100,000 transactions (`random_state=42`), o
 ## Tools
 Python, pandas, NumPy, scikit-learn, XGBoost, matplotlib, seaborn, Jupyter
 
-## Team
-Built with Magdalene Sharon S.
+
